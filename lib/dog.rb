@@ -14,4 +14,6 @@ class Dog
     @@all.each {|d|puts d}
   end
   
+  
+  
 end
